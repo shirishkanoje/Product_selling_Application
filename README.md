@@ -22,8 +22,7 @@ Purpose: Register a new Customer user.
 Body:
 
 json
-Copy
-Edit
+
 {
   "username": "john_doe",
   "password": "123456"
@@ -34,8 +33,6 @@ Purpose: Authenticate user and receive JWT token.
 Body:
 
 json
-Copy
-Edit
 {
   "username": "john_doe",
   "password": "123456"
@@ -55,8 +52,6 @@ Purpose: Add a new product.
 Body:
 
 json
-Copy
-Edit
 {
   "name": "Headphones",
   "description": "Wireless Bluetooth",
@@ -83,8 +78,6 @@ Purpose: View current user's checkout summary with all purchases, total amount, 
 Returns:
 
 json
-Copy
-Edit
 {
   "name": "John",
   "contactNumber": "9999999999",
@@ -110,8 +103,6 @@ Purpose: Final checkout. Saves name, contact number, and address.
 Body:
 
 json
-Copy
-Edit
 {
   "name": "John",
   "contactNumber": "9999999999",
@@ -126,8 +117,6 @@ Purpose: See list of all customers who submitted checkout with their purchases a
 Returns:
 
 json
-Copy
-Edit
 {
   "name": "John",
   "contactNumber": "9999999999",
@@ -152,8 +141,6 @@ Postman Tested
 
 ## 📁 Project Structure
 arduino
-Copy
-Edit
 src/
 ├── controller/
 ├── model/

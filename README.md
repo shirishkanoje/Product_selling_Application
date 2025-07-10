@@ -163,7 +163,7 @@ Public access: Register, Login, Get all products
 
 
 ## 🔗 Author
-Created by Shree
+Created by Shirish Gopal Kanoje
 A complete product selling backend platform with:
 
 Secure APIs

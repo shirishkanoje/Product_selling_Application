@@ -6,6 +6,9 @@ This backend API enables product selling functionality for two user types:
 
 ---
 
+![image](https://github.com/user-attachments/assets/62a6588a-dd76-4c5e-a443-dc9f3853c102)
+
+
 ## 🔐 Authentication (`/auth`)
 
 ### `POST /auth/register/admin`
